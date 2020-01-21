@@ -58,7 +58,7 @@ After you have finished installing Visual Studio Code should have opened.
 Now we are going to install Git. Git is a piece of `Version Control Software` that programmers use to help them make sure that everyone who is working on a program has the correct version of the code
 Git also allows the programmer to revert any changes that they have made if they perhaps break something or if they decide that they don't want to use the code that they have created.
 
-First step in installing Git is to download it from [www.git-scm.com/download](www.git-scm.com/download) you will land on a page that will provide you with a download button
+First step in installing Git is to download it from [www.git-scm.com/download](http://www.git-scm.com/download) you will land on a page that will provide you with a download button
 
 ![Image of download button](https://github.com/lukebrowell/Minecraft/blob/master/Images/GitDownload.PNG)
 
