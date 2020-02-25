@@ -66,6 +66,8 @@ See the [wiki](https://github.com/fogleman/Minecraft/wiki) for this project to i
 - Space: jump
 - Tab: toggle flying mode
 
+.
+
 ### Building
 
 - Selecting type of block to create:
