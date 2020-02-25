@@ -65,7 +65,7 @@ See the [wiki](https://github.com/fogleman/Minecraft/wiki) for this project to i
 - Mouse: look around
 - Space: jump
 - Tab: toggle flying mode
-
+PR
 ### Building
 
 - Selecting type of block to create:
