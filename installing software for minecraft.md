@@ -1,9 +1,9 @@
 # Installing Minecraft for python!
 If you want to install minecraft for python you are going to need some tools:
 * git (a versioning software used for storing different versions of a program)
-* A text editor (Visual Studio code, Vim, Emacs, Idle) that is used for modifying the code of the game
-* Python the programming language used for creating this version of Minecraft
-* Pyglet a special addon for Python.
+* A text editor (Visual Studio code) that is used for modifying the code of the game
+* Python 2 the programming language used for creating this version of Minecraft
+* Pyglet 1.3.0 a special addon for Python for doing graphics.
 
 ----
 ## Installing Python:
@@ -13,7 +13,7 @@ To install python you need to download the installer from: [https://www.python.o
 
 To install python we need to select the correct version for your computer.
 Click on the `Downloads` button and you will be taken to a webpage that will select the correct version for you.
-Click the `Download Python 3.6.5` button and it will automatically download the correct version for your operating system.
+Click the `Download Python 2.x.x` button and it will automatically download the correct version for your operating system.
 ![PICTURE OF PYTHON DOWNLOADS PAGE](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/PythonDownloadButton.PNG)
 You should be able to click through and agree to any agreements that are presented. If at any point you are asked if you would like to add the `Python PATH variable` click `YES`.
 Once the installer has downloaded you can double click on it and the installer will open.
@@ -31,7 +31,7 @@ now a window should pop up
 
 ![image of cmd](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/CMDopenInDir.PNG)
 
-Now type `python -m pip install pyglet` and press enter the computer will then collect the files for pyglet and install them to python for you.
+Now type `python -m pip install pyglet==1.3.0` and press enter the computer will then collect the files for pyglet and install them to python for you.
 
 ![image of pyglet installing](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/InstallingPyglet.PNG)
 
