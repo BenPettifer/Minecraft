@@ -87,3 +87,11 @@ The game is made up of objects. The objects have properties (things like the con
 #### Add a new feature to the game
 
 It could be another block type, a new skin for all the textures or anthing else - you decide.
+
+
+---
+
+### Next Steps
+
+If you're interested in game development using a pre-built engine, you could also look into
+https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_advanced.html
