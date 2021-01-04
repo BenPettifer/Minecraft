@@ -6,7 +6,7 @@
 
 You will need:
 - A commandline terminal
-- Python 3
+- Python 2
 - A text editor (e.g. Atom)
 - The project source code (https://github.com/lukebrowell/Minecraft)
 - Full OpenGL (The RaspberryPi-1 has OpenGL-ES which wont work here, and the RPi2/3 have a beta driver which you woul dneed to activate on the latest version of the OS, if in doubt use a Mac or PC)
@@ -87,3 +87,11 @@ The game is made up of objects. The objects have properties (things like the con
 #### Add a new feature to the game
 
 It could be another block type, a new skin for all the textures or anthing else - you decide.
+
+
+---
+
+### Next Steps
+
+If you're interested in game development using a pre-built engine, you could also look into
+https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_advanced.html

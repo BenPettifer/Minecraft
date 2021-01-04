@@ -13,7 +13,7 @@ Everyone loves games; and taking them apart to see how they work is the best way
 
 ```shell
 pip install pyglet
-git clone https://github.com/fogleman/Minecraft.git
+git clone https://github.com/lukebrowell/Minecraft.git
 cd Minecraft
 python main.py
 ```
